@@ -2,7 +2,7 @@
 layout: post
 title: "Artificial Neural Networks with Tensorflow and Keras used in a complete Data Science Project"
 date: 2020-06-11
-tags: [machine learning, deep learning, data wrangling]
+tags: [machine learning, deep learning, data wrangling, bioinformatics]
 collection: portfolio
 header:
   image: "/images/laptop.jpeg"
