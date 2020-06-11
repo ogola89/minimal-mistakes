@@ -9,3 +9,5 @@ I'm a PhD student studying Cancer Cellular and Molecular Biology utilising in-vi
 I use machine learning and deep learning to obtain insights into data that can help fight disease, or bring company increased profit.
 
 I use Python, R, Matlab, Julia and SQL.
+
+---
