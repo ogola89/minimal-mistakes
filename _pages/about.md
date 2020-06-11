@@ -1,8 +1,13 @@
 ---
-title: "About"
+
+layout: archive
 permalink: /about/
+title: "About"
+author_profile: true
 header:
-	image: "/images/beach-house.jpeg"
+    image: "/images/beach-house.jpeg"
+
+
 ---
 
 I'm a PhD student studying Cancer Cellular and Molecular Biology utilising in-vivo models. I have experience with Bioinformatics, particularly RNA-seq and Single-Cell RNA-Seq, ChIP-Seq and Microarrays.
